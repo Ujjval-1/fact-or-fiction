@@ -1,0 +1,13 @@
+{
+  "name": "fact-or-fiction-party-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A real-time bluffing party game for 2-8 players",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
